@@ -1,4 +1,4 @@
-
+![image](https://github.com/JesusR-91/JesusR-91/assets/128042115/3e482dcd-4924-4980-8bcb-5d1f39cc6f5f)
 <h1 align="center"><b>Hi , I'm Jesús M. Ruiz </b>
 
 <br>
@@ -31,18 +31,23 @@
   
 <br>
 
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+- **Softwares and Tools**:
+	
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsHHf9xWZEvAlUD58A2wBT7nPvKY3038PPvKZy9SfHLoWdWPOYAQgwJDnwGsvNf0OWFnI&usqp=CAU" alt="React" height="30px" />
+    <img src="https://logowik.com/content/uploads/images/nodejs.jpg" alt="Node" height="30px" />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30px" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="30px"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSC" height="30px"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtPyxRuFMxvwYhHH_x1uY67svR_ruuAmLawD29NYo0sLYwUomzU8_SMn3Z1heEQa7S-Q&usqp=CAU" alt="Mongo" height="30px"/>
     
 <br>
 
-- **Softwares and Tools**:
-
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" height="30px" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" height="30px"/>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSC" height="30px"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtPyxRuFMxvwYhHH_x1uY67svR_ruuAmLawD29NYo0sLYwUomzU8_SMn3Z1heEQa7S-Q&usqp=CAU" alt="mongo" height="30px"/>
+- **Cloud Hosting**:
+  
+  <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white" alt = "github-pages" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQtIpqF27DvuknevLwLgrs9zC9sVSa1zVzwIbtMdZq&s" alt="adaptable" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGFtuuMl5fQuSnoGD8hyuPgj91oiRWxydIKCNc1ZBEc0TkRdmGCjopqZGQI5ZVsW_gQb0&usqp=CAU" alt="neflify" />
+    
 
 <br>
 
