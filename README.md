@@ -103,7 +103,7 @@
 
 <li>
 <a href="mailto:jesusruizjaen@gmail.com" target="_blank">
-<img src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" style="margin-bottom: 5px;" />
+<img src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" alt=gmail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
