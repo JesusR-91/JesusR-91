@@ -90,20 +90,20 @@
 
 <ul>
 
-<li>
+<div>
 <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt= "Linkedin" width="50px"/>
 </a>
-</li>
+</div>
 
 
 <br>
 
-<li>
+<div>
 <a href="mailto:jesusruizjaen@gmail.com" target="_blank">
-<img src="" alt="gmail" />
+<img src="https://1000marcas.net/wp-content/uploads/2019/11/Gmail-logo.jpg" alt="gmail" width="50px"/>
 </a>
-</li>
+</div>
 	
 </ul>
 </div>
