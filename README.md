@@ -27,6 +27,7 @@
 <br>
 
 - **Softwares and Tools**:
+<br>
 	
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsHHf9xWZEvAlUD58A2wBT7nPvKY3038PPvKZy9SfHLoWdWPOYAQgwJDnwGsvNf0OWFnI&usqp=CAU" alt="React" height="30px" />
     <img src="https://logowik.com/content/uploads/images/nodejs.jpg" alt="Node" height="30px"/>
