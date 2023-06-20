@@ -101,7 +101,7 @@
 
 <div>
 <a href="mailto:jesusruizjaen@gmail.com" target="_blank">
-<img src="https://1000marcas.net/wp-content/uploads/2019/11/Gmail-logo.jpg" alt="gmail" width="50px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail" width="50px"/>
 </a>
 </div>
 	
