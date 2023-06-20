@@ -92,7 +92,7 @@
 
 <li>
 <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src= "https://icons8.com/icon/13930/linkedin" alt= "Linkedin"/>
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt= "Linkedin"/>
 </a>
 </li>
 
@@ -101,7 +101,7 @@
 
 <li>
 <a href="mailto:jesusruizjaen@gmail.com" target="_blank">
-![GMAIL](https://icons8.com/icon/P7UIlhbpWzZm/gmail)
+<img src="" alt="gmail" />
 </a>
 </li>
 	
