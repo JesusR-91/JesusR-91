@@ -12,7 +12,7 @@
 
 - A passionate Self-taught Full-stack developer
 - Imrpoving my programming skills
-- I’m currently open for an job opportunity, this is [my resume](https://drive.google.com/file/d/1Fh91e861C02S812pqwdecFAJSUk3Pwf4/view?usp=drive_link))
+- I’m currently open for an job opportunity, this is [my resume](https://drive.google.com/file/d/1Fh91e861C02S812pqwdecFAJSUk3Pwf4/view?usp=drive_link)
 
 <br><br>
 
