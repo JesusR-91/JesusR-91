@@ -94,7 +94,7 @@
 
 <li>
 <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src=(https://icons8.com/icon/13930/linkedin) alt=linkedin style="margin-bottom: 5px;"/>
+!Linkedin (https://icons8.com/icon/13930/linkedin)
 </a>
 </li>
 
