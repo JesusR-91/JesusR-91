@@ -40,10 +40,10 @@
 - **Softwares and Tools**:
 
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSC" />
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.cloudinary.com%2Fhevo%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1626694700%2Fhevo-blog%2FMongoDB-sm-logo-500x400-1-1.gif&tbnid=q_C1XHv2uX3dJM&vet=12ahUKEwjg29CQx9H_AhUInCcCHaLdB1MQMygOegUIARDZAQ..i&imgrefurl=https%3A%2F%2Fhevodata.com%2Flearn%2Fmongodb-guis%2F&docid=8yIhWNLDTbxMBM&w=500&h=400&q=mongodb%20logo&ved=2ahUKEwjg29CQx9H_AhUInCcCHaLdB1MQMygOegUIARDZAQ" alt="mongo" />
+
 
 <br>
 
