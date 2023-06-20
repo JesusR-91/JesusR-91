@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" height="30px" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" height="30px"/>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSC" height="30px"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ496s2U24vJ6EKdYD6f1VAOnhpUv9AstkJBA&usqp=CAU" alt="mongo" height="30px"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN64I4t929XxQCesCjYmRglHSxG2k6zBJoMQ&usqp=CAU" alt="mongo" height="30px"/>
 
 <br>
 
