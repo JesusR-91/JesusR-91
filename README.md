@@ -34,7 +34,7 @@
 - **Softwares and Tools**:
 	
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsHHf9xWZEvAlUD58A2wBT7nPvKY3038PPvKZy9SfHLoWdWPOYAQgwJDnwGsvNf0OWFnI&usqp=CAU" alt="React" height="30px" />
-    <img src="https://logowik.com/content/uploads/images/nodejs.jpg" alt="Node" height="30px" />
+    <img src="https://logowik.com/content/uploads/images/nodejs.jpg" alt="Node" height="30px"/>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30px" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="30px"/>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSC" height="30px"/>
@@ -44,9 +44,9 @@
 
 - **Cloud Hosting**:
   
-  <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white" alt = "github-pages" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQtIpqF27DvuknevLwLgrs9zC9sVSa1zVzwIbtMdZq&s" alt="adaptable" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGFtuuMl5fQuSnoGD8hyuPgj91oiRWxydIKCNc1ZBEc0TkRdmGCjopqZGQI5ZVsW_gQb0&usqp=CAU" alt="neflify" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white" alt = "github-pages" height="30px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQtIpqF27DvuknevLwLgrs9zC9sVSa1zVzwIbtMdZq&s" alt="adaptable" height="30px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGFtuuMl5fQuSnoGD8hyuPgj91oiRWxydIKCNc1ZBEc0TkRdmGCjopqZGQI5ZVsW_gQb0&usqp=CAU" alt="neflify" height="30px"/>
     
 
 <br>
