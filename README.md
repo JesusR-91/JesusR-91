@@ -1,4 +1,4 @@
-![image](https://github.com/JesusR-91/JesusR-91/assets/128042115/3e482dcd-4924-4980-8bcb-5d1f39cc6f5f)
+
 <h1 align="center"><b>Hi , I'm Jesús M. Ruiz </b>
 
 <br>
