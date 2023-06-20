@@ -94,7 +94,7 @@
 
 <li>
 <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-!Linkedin (https://icons8.com/icon/13930/linkedin)
+<img src= "https://icons8.com/icon/13930/linkedin" alt= "Linkedin"/>
 </a>
 </li>
 
