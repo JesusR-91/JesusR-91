@@ -69,7 +69,7 @@
 <ul>
 
 <div>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<a href="https://www.linkedin.com/in/jesús-manuel-ruiz-jaén-24714472" target="_blank">
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt= "Linkedin" width="50px"/>
 </a>
 </div>
