@@ -7,7 +7,7 @@
 
 - A passionate Full-stack developer
 - Imrpoving my programming skills
-- I’m currently open for an job opportunity, this is [my resume][https://drive.google.com/file/d/12kmNayRU_67XF7SfRn1V3ZWe8D9GOyWT/view?usp=sharing]
+- I’m currently open for an job opportunity, this is [my resume](https://drive.google.com/file/d/12kmNayRU_67XF7SfRn1V3ZWe8D9GOyWT/view?usp=sharing)
 
 <br><br>
 
