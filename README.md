@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)" alt="CSS"/>
   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwrNuPXdTqhsrnUoACgcWqR9Bh4uhMSDXgg&usqp=CAU" alt="C++" height="27px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBDvlVosE6r5KdnTE1V1JV10m4LDv51u7Wzg&usqp=CAU" alt="C++" height="27px"/>
   <img src="https://github.com/JesusR-91/JesusR-91/assets/128042115/7d67ea87-b582-4f47-932f-1e53122a1419" alt="Ruby" height="27px"/>
   
   
