@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)" alt="CSS"/>
   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://github.com/JesusR-91/JesusR-91/assets/128042115/7d67ea87-b582-4f47-932f-1e53122a1419" alt="Ruby" height="30px"/>
+  <img src="https://github.com/JesusR-91/JesusR-91/assets/128042115/7d67ea87-b582-4f47-932f-1e53122a1419" alt="Ruby" height="25px"/>
   
   
 <br>
@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30px" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="30px"/>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSC" height="30px"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtPyxRuFMxvwYhHH_x1uY67svR_ruuAmLawD29NYo0sLYwUomzU8_SMn3Z1heEQa7S-Q&usqp=CAU" alt="Mongo" height="25px"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtPyxRuFMxvwYhHH_x1uY67svR_ruuAmLawD29NYo0sLYwUomzU8_SMn3Z1heEQa7S-Q&usqp=CAU" alt="Mongo" height="30px"/>
     
 <br>
 
