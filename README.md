@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30px" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="30px"/>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSC" height="30px"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtPyxRuFMxvwYhHH_x1uY67svR_ruuAmLawD29NYo0sLYwUomzU8_SMn3Z1heEQa7S-Q&usqp=CAU" alt="Mongo" height="30px"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtPyxRuFMxvwYhHH_x1uY67svR_ruuAmLawD29NYo0sLYwUomzU8_SMn3Z1heEQa7S-Q&usqp=CAU" alt="Mongo" height="25px"/>
     
 <br>
 
