@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBDvlVosE6r5KdnTE1V1JV10m4LDv51u7Wzg&usqp=CAU" alt="C++" height="27px"/>
   <img src="https://github.com/JesusR-91/JesusR-91/assets/128042115/7d67ea87-b582-4f47-932f-1e53122a1419" alt="Ruby" height="27px"/>
-  <img src="https://www.svgrepo.com/show/303656/php-logo.svg" alt="PHP" height="27px" width="40px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" height="27px"/>
 
   
   
