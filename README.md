@@ -45,7 +45,6 @@
   
   <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white" alt = "github-pages" height="30px"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQtIpqF27DvuknevLwLgrs9zC9sVSa1zVzwIbtMdZq&s" alt="adaptable" height="30px"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGFtuuMl5fQuSnoGD8hyuPgj91oiRWxydIKCNc1ZBEc0TkRdmGCjopqZGQI5ZVsW_gQb0&usqp=CAU" alt="neflify" height="30px"/>
     
 
 <br>
